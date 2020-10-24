@@ -23,12 +23,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dimmor/Week4.git"
+    "url": "git+https://github.com/dimmor/Week5.git"
   },
   "author": "Dmitriy Morozov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dimmor/Week4/issues"
+    "url": "https://github.com/dimmor/Week5/issues"
   },
-  "homepage": "https://github.com/dimmor/Week4#readme"
+  "homepage": "https://github.com/dimmor/Week5#readme"
 }
